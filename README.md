@@ -1,16 +1,14 @@
-## Hi there 👋
+## Hi, I'm Mikael 👋
 
-<!--
-**Qeltos/Qeltos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a junior software developer with a strong background in industrial automation, where I spent 12 years working with real-world systems, troubleshooting, and technical problem-solving.
 
-Here are some ideas to get you started:
+I’m currently studying software engineering at the University of Gävle, with an interest in backend development and data-related systems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+⚙️ **Background**
+My experience in automation has given me a strong understanding of how complex systems behave in practice, as well as how to troubleshoot and debug issues efficiently.
+
+💡 **What drives me**
+I enjoy solving practical problems and building systems that are reliable, efficient, and useful in real-world scenarios.
+
+🧰 **Tech**
+Java, Spring Boot, Node.js, Express, MySQL, Docker, Git
