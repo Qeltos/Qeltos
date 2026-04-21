@@ -4,14 +4,12 @@ I’m a junior software developer with a strong background in industrial automat
 
 I’m currently studying software engineering at the University of Gävle, with an interest in backend development and data-related systems.
 
-⚙️ **Background**
-
+⚙️ **Background**\
+I started of working in industrial automation but with 
 My experience in automation has given me a strong understanding of how complex systems behave in practice, as well as how to troubleshoot and debug issues efficiently.
 
-💡 **What drives me**
-
+💡 **What drives me**\
 I enjoy solving practical problems and building systems that are reliable, efficient, and useful in real-world scenarios.
 
-🧰 **Tech**
-
+🧰 **Tech**\
 Java, Spring Boot, Node.js, Express, MySQL, Docker, Git
