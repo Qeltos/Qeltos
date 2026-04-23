@@ -8,8 +8,5 @@ I’m currently studying software engineering at the University of Gävle, with 
 I started my career in industrial automation, working with PLC programming and HMI development. Over time, I became increasingly interested in programming and the problem-solving aspects of software development, which eventually led me to pursue a degree in software engineering.
 My experience in automation has given me a strong understanding of how complex systems behave in practice, as well as how to troubleshoot and debug issues efficiently.
 
-💡 **What drives me**\
-I enjoy solving practical problems and building systems that are reliable, efficient, and useful in real-world scenarios.
-
 🧰 **Tech**\
 Java, Spring Boot, Node.js, Express, MySQL, Docker, Git
